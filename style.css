@@ -130,6 +130,8 @@ align-items: center;
     animation: arrow 3s infinite;
 }
 
+
+
 @keyframes arrow{
 0%{   
     top: 20px;
